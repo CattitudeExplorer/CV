@@ -21,7 +21,7 @@ function Hero() {
           </p>
 
           <h1 className="text-5xl md:text-7xl font-bold text-white leading-tight">
-           Warren Buffett
+           Roxana Radutiu
           </h1>
 
           <h2 className="text-2xl md:text-4xl font-semibold text-gray-300 mt-4">
